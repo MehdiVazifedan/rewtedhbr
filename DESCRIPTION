@@ -1,0 +1,13 @@
+Package: hbrwted2a
+Type: Package
+Title: A weighted version with approximate scores of the HBR fit
+Version: 0.2.0
+Date: 2018-07-12
+Author: Joe McKean
+Maintainer: Joseph McKean <mckean@wmich.edu>
+Description: The fit is obtained by iterated reweight least squares.    It uses the HBR weights and the approximate Big Data Scores based on the Wilcoxon scores.
+License: GPL (>=2)
+LazyLoad: yes
+LazyData: yes
+NeedsCompilation: no
+Packaged: 2018-07-16 20:36:08 UTC; joe
