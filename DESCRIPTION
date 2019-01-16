@@ -1,0 +1,13 @@
+Package: hbrwted1
+Type: Package
+Title: A weighted version of the HBR fit
+Version: 0.4.0
+Date: 2018-07-11
+Author: Joseph McKean
+Maintainer: Joseph McKean <mckean@wmich.edu>
+Description: The fit is obtained by iterated reweight least squares.    It uses the HBR weights.
+License: GPL (>=2)
+LazyLoad: yes
+LazyData: yes
+NeedsCompilation: no
+Packaged: 2018-07-16 20:38:11 UTC; joe
